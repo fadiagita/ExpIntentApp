@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpIntentApp</string>
+    <string name="i_am" />
+    <string name="this_is_second_activity" />
+</resources>
